@@ -1,4 +1,4 @@
-package Collection.ArrayList.program1;
+package Advance_Java.Collection.ArrayList.program1;
 
 import java.util.ArrayList;
 
