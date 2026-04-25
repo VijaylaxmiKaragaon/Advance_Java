@@ -11,9 +11,7 @@ I am continuously improving my Java skills by building practical programs and ex
 
 ## 🧠 Current Topics
 - JDBC (Java Database Connectivity)  
-- Collections Framework  
-- Exception Handling  
-- Core Java Programs  
+- Collections Framework   
 
 ---
 
@@ -35,7 +33,7 @@ I am continuously improving my Java skills by building practical programs and ex
 - Java  
 - MySQL  
 - JDBC  
-- IntelliJ IDEA / Eclipse  
+- Eclipse  
 
 ---
 
