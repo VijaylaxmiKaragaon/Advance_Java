@@ -15,24 +15,9 @@ I am continuously improving my Java skills by building practical programs and ex
 
 ---
 
-## 🔄 Upcoming Topics
-- Multithreading  
-- Servlets & JSP  
-- Spring Framework (Basics)  
-
----
-
-## 💻 Features
-- Clean and structured code  
-- Practical examples  
-- Real-world implementations (e.g., login system using JDBC)  
-
----
-
 ## 🛠️ Tech Stack
 - Java  
-- MySQL  
-- JDBC  
+- MySQL   
 - Eclipse  
 
 ---
